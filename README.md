@@ -1,2 +1,2 @@
 # Portfolio
-Personal Portfolio for Glenn EvanS
+Personal Portfolio for Glenn Evans
